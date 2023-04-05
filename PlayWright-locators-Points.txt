@@ -5,4 +5,5 @@ Same as playwright.$, but returns all matching elements.
 > playwright.$$('li >> text=John')
 > [<li>, <li>, <li>, <li>]
 
-added new line here
+added new line here	
+second line added here
