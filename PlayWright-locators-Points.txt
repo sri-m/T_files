@@ -1,0 +1,8 @@
+playwright.$('.auth-form >> text=Log in');
+<button>Log in</button>
+
+Same as playwright.$, but returns all matching elements.
+> playwright.$$('li >> text=John')
+> [<li>, <li>, <li>, <li>]
+
+added new line here
